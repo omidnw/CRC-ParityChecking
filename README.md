@@ -158,6 +158,6 @@ CRC در بردارنده تقسیمات دودویی از بیت های داد�
 
 [WikiPedia]: [https://en.wikipedia.org/wiki/Cyclic_redundancy_check]
 
-[CRCCode]: []
+[CRCCode]: [https://github.com/omidnw/CRC-ParityChecking/blob/master/CRC.cpp]
 
 </div>
