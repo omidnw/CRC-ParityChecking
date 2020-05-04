@@ -38,7 +38,7 @@ CRC در بردارنده تقسیمات دودویی از بیت های داد�
 با این حال، reminder برابر با صفر می شود و بنابراین داده دریافت شده بدون خطا بوده است.
 ```
 
-[کد پیاده سازی CRC در c++][CRCCode]
+[کد پیاده سازی CRC در c++](https://github.com/omidnw/CRC-ParityChecking/blob/master/CRC.cpp)
 
 **بیت Parity یا بیت توازن چیست؟** <br/>
 
@@ -157,7 +157,5 @@ CRC در بردارنده تقسیمات دودویی از بیت های داد�
 [GeeksforGeeks]: [https://www.geeksforgeeks.org/modulo-2-binary-division/]
 
 [WikiPedia]: [https://en.wikipedia.org/wiki/Cyclic_redundancy_check]
-
-[CRCCode]: [https://github.com/omidnw/CRC-ParityChecking/blob/master/CRC.cpp]
 
 </div>
