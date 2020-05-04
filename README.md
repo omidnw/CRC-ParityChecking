@@ -28,6 +28,7 @@
 * **فرض کنید چهار رشته چهار بیتی اطلاعات به شرح زیر است:**
 
 <div dir="ltr">
+
 ![ImageLink1](https://rasamserver.com/wp-content/uploads/2019/08/2019-08-20_134644.jpg)
 [![ImageLink1](https://rasamserver.com/wp-content/uploads/2019/08/2019-08-20_134644.jpg)](https://rasamserver.com/wp-content/uploads/2019/08/2019-08-20_134644.jpg)
 
