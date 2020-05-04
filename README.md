@@ -154,10 +154,10 @@ CRC در بردارنده تقسیمات دودویی از بیت های داد�
 
 [Githubomidnw]: https://github.com/omidnw/
 
-[TutorialsPoint]: [https://www.tutorialspoint.com/what-is-algorithm-for-computing-the-crc]
+[TutorialsPoint]: https://www.tutorialspoint.com/what-is-algorithm-for-computing-the-crc
 
-[GeeksforGeeks]: [https://www.geeksforgeeks.org/modulo-2-binary-division/]
+[GeeksforGeeks]: https://www.geeksforgeeks.org/modulo-2-binary-division/
 
-[WikiPedia]: [https://en.wikipedia.org/wiki/Cyclic_redundancy_check]
+[WikiPedia]: https://en.wikipedia.org/wiki/Cyclic_redundancy_check
 
 </div>
